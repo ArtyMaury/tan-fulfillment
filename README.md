@@ -2,9 +2,9 @@
 
 ## Requirements
 
-* [firebase-tools]("https://github.com/firebase/firebase-tools")
+* [firebase-tools](https://github.com/firebase/firebase-tools)
 
-* [ngrok]("https://ngrok.com/")
+* [ngrok](https://ngrok.com/)
 
 ## Getting started
 
